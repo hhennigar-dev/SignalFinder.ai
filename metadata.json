@@ -1,0 +1,7 @@
+{
+  "name": "SignalFinder.ai",
+  "description": "Professional pattern analysis and problem validation dashboard for entrepreneurs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
